@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O/yH3L8lGKw=",
+  "dgSpecHash": "pnsxeLLPj8U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PlazaCD\\Downloads\\TP PROGRA III\\TP PROGRA III.csproj",
+  "projectFilePath": "C:\\Users\\PlazaCD\\Downloads\\TP PROG3\\Progra-III-TP-PHP---C-\\TP PROGRA III\\TP PROGRA III.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PlazaCD\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\PlazaCD\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",

@@ -559,11 +559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PlazaCD\\Downloads\\TP PROGRA III\\TP PROGRA III.csproj",
+      "projectUniqueName": "C:\\Users\\PlazaCD\\Downloads\\TP PROG3\\Progra-III-TP-PHP---C-\\TP PROGRA III\\TP PROGRA III.csproj",
       "projectName": "TP PROGRA III",
-      "projectPath": "C:\\Users\\PlazaCD\\Downloads\\TP PROGRA III\\TP PROGRA III.csproj",
+      "projectPath": "C:\\Users\\PlazaCD\\Downloads\\TP PROG3\\Progra-III-TP-PHP---C-\\TP PROGRA III\\TP PROGRA III.csproj",
       "packagesPath": "C:\\Users\\PlazaCD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PlazaCD\\Downloads\\TP PROGRA III\\obj\\",
+      "outputPath": "C:\\Users\\PlazaCD\\Downloads\\TP PROG3\\Progra-III-TP-PHP---C-\\TP PROGRA III\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PlazaCD\\AppData\\Roaming\\NuGet\\NuGet.Config"
